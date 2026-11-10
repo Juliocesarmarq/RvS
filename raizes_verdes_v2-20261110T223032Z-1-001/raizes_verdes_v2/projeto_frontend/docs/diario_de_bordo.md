@@ -1,4 +1,5 @@
 Diário de bordo – Raízes Verdes
+
 Este diário deve registrar o que o grupo realmente realizou. Preencher as datas e os responsáveis com informações confirmadas; não inventar atividades retroativas.
 
 Data	Atividade realizada	Responsáveis	Observações / evidências
