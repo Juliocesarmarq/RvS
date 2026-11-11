@@ -115,16 +115,11 @@ Preencher com a distribuição realmente combinada pelo grupo. Se uma pessoa acu
 
 | Responsabilidade | Integrante responsável |
 |---|---|
-| Planejamento e conteúdo | [NOME A CONFIRMAR] |
-| Estrutura HTML e navegação | [NOME A CONFIRMAR] |
-| CSS e identidade visual | [NOME A CONFIRMAR] |
-| Imagens e mídias | [NOME A CONFIRMAR] |
-| Documentação | [NOME A CONFIRMAR] |
-| Git e GitHub | [NOME A CONFIRMAR] |
-| Revisão e correções | [NOME A CONFIRMAR] |
+| Planejamento e conteúdo | [Jùlio] |
+| Estrutura HTML e navegação | [Jùlio] |
+| CSS e identidade visual | [Jùlio] |
+| Imagens e mídias | [Jùlio] |
+| Documentação | [Jùlio] |
+| Git e GitHub | [Jùlio] |
+| Revisão e correções | [Jùlio] |
 
-## 11. Pendências de confirmação
-- Confirmar os nomes e a divisão real das responsabilidades.
-- Produzir/anexar os três wireframes solicitados no roteiro.
-- Executar as validações oficiais de HTML e CSS e registrar os resultados.
-- Confirmar com o professor se o formulário precisa enviar dados de verdade ou se a demonstração Front-End atende ao objetivo da atividade.
