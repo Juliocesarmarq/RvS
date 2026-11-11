@@ -46,3 +46,14 @@ projeto_frontend/
 │   └── video/
 │
 └── docs/
+
+
+
+# Raízes Verdes – Site da ONG Ambiental
+
+Projeto acadêmico da disciplina Desenvolvimento Front-End para Web – UNICID.
+
+## Repositório GitHub
+
+Link do projeto:
+
