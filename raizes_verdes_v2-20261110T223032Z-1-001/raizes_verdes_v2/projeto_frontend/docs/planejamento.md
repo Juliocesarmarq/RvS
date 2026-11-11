@@ -1,6 +1,6 @@
 amento do site – Raízes Verdes
 
-1. Objetivo
+1. Objetivo.
 
 Apresentar os projetos da ONG Raízes Verdes, divulgar ações sustentáveis e permitir que interessados conheçam as iniciativas e entrem em contato.
 
