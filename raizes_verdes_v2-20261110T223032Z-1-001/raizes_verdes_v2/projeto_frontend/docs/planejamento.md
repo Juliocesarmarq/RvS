@@ -13,19 +13,23 @@ Apresentar os projetos da ONG Raízes Verdes, divulgar ações sustentáveis e p
 3. Sitemap
 
                          index.html
-       ┌─────────┬──────────┼──────────┬──────────┬─────────┐
-       │         │          │          │          │         │
-    sobre    projetos   galeria  voluntarios    faq    contato  orcamento
-                  │
-           ┌──────┴────────┐
-           │               │
-    projeto-horta   projeto-reciclagem
+        ┌─────────┬──────────┬─────────┬──────────┐
+        │         │          │         │          │
+     sobre    projetos    galeria   voluntarios  faq
+                    │
+             ┌──────┴────────┐
+             │               │
+      projeto-horta   projeto-reciclagem
+        contato.html
+        orcamento.html
 
-Menu principal:
+Menu principal
 
 Início | Sobre | Projetos | Galeria | Voluntários | FAQ | Contato | Orçamento
 
 As páginas de detalhes dos projetos são acessadas através da página Projetos.
+
+⸻
 
 4. Inventário de conteúdo
 
@@ -41,42 +45,59 @@ faq.html	Responder dúvidas	Perguntas e respostas
 contato.html	Permitir contato	Formulário e informações de contato
 orcamento.html	Apresentar pesquisa	Comparativo de domínio e hospedagem
 
+⸻
+
 5. Wireframes de baixa fidelidade
 
 Home
 
-┌──────────────────────────────────────────┐
-│ HEADER – nome da ONG                     │
-├──────────────────────────────────────────┤
-│ NAV – menu de navegação                  │
-├──────────────────────────────────────────┤
-│ TÍTULO + apresentação                    │
-├──────────────┬──────────────┬─────────────┤
-│ Projeto 1    │ Projeto 2    │ Participar  │
-├──────────────┴──────────────┴─────────────┤
-│ Áudio                                      │
-├──────────────────────────────────────────┤
-│ FOOTER                                    │
-└──────────────────────────────────────────┘
++--------------------------------+
+| HEADER - Nome da ONG           |
++--------------------------------+
+| NAV - Menu de navegação        |
++--------------------------------+
+| Título + apresentação          |
++--------------------------------+
+| Projeto 1 | Projeto 2 | Ação   |
++--------------------------------+
+| Áudio                          |
++--------------------------------+
+| FOOTER                         |
++--------------------------------+
 
-Página interna – Projeto Horta
+Página interna - Projeto Horta
 
-HEADER + NAV
-TÍTULO DA PÁGINA
-IMAGEM PRINCIPAL
-TEXTO EXPLICATIVO
-LISTA DE INFORMAÇÕES
-VÍDEO
-FOOTER
++--------------------------------+
+| HEADER + NAV                   |
++--------------------------------+
+| Título da página               |
++--------------------------------+
+| Imagem principal               |
++--------------------------------+
+| Texto explicativo              |
+| Lista de informações           |
++--------------------------------+
+| Vídeo                          |
++--------------------------------+
+| FOOTER                         |
++--------------------------------+
 
 Contato
 
-HEADER + NAV
-TÍTULO: Fale com a gente
-FORMULÁRIO
-INFORMAÇÕES DE CONTATO
-MAPA
-FOOTER
++--------------------------------+
+| HEADER + NAV                   |
++--------------------------------+
+| Fale com a gente               |
++--------------------------------+
+| Formulário                     |
++--------------------------------+
+| Informações de contato         |
+| Mapa                           |
++--------------------------------+
+| FOOTER                         |
++--------------------------------+
+
+⸻
 
 6. Guia visual
 
@@ -89,6 +110,8 @@ Fonte	Georgia
 Botões	Verdes com cantos arredondados
 Cards	Fundo branco com sombra leve
 
+⸻
+
 7. Estrutura das páginas
 
 Todas as páginas seguem o modelo:
@@ -96,6 +119,8 @@ Todas as páginas seguem o modelo:
 header → nav → main → footer
 
 A estrutura mantém a navegação e a identidade visual do site.
+
+⸻
 
 8. Formulário de contato
 
@@ -108,12 +133,16 @@ Mensagem	textarea	required, minlength, maxlength
 
 O formulário utiliza validações nativas do HTML5.
 
+⸻
+
 9. Mídias
 
 * Imagens nas páginas principais e projetos;
 * Áudio na página inicial;
 * Vídeo na página do projeto de horta;
 * Iframe de mapa na página de contato.
+
+⸻
 
 10. Responsabilidades
 
