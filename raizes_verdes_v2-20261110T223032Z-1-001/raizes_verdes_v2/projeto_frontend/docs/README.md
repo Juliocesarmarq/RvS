@@ -7,10 +7,8 @@ Apresentar os projetos da ONG Raízes Verdes, divulgar ações sustentáveis e p
 
 ## Integrantes
 > Substituir os campos abaixo pelos nomes completos e papéis confirmados pelo grupo. Não manter nomes fictícios na entrega.
-- Líder do grupo: **[PREENCHER]**
-- Integrante 2: **[PREENCHER ou remover se não houver]**
-- Integrante 3: **[PREENCHER ou remover se não houver]**
-- Integrante 4: **[PREENCHER ou remover se não houver]**
+- Líder do grupo: **[julio]**
+
 
 ## Tecnologias
 - HTML5 semântico;
@@ -50,10 +48,3 @@ Antes da entrega, validar todas as páginas HTML em https://validator.w3.org/ e 
 ## Repositório
 **GitHub:** [INSERIR A URL REAL DO REPOSITÓRIO]
 
-## Pendências para finalizar a entrega
-- [ ] Substituir os campos dos integrantes pelos nomes reais.
-- [ ] Inserir a URL real do GitHub e conferir as permissões de acesso.
-- [ ] Completar o diário de bordo com datas, atividades e responsáveis verdadeiros.
-- [ ] Fotografar/digitalizar os wireframes feitos pelo grupo, conforme orientação do professor.
-- [ ] Executar e registrar as validações W3C.
-- [ ] Confirmar se o professor exige envio real pelo formulário ou apenas demonstração Front-End.
