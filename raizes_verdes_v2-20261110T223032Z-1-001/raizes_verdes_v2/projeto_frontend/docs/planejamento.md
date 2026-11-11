@@ -1,3 +1,20 @@
+🌱 Planejamento do Site – Raízes Verdes
+
+Documento de planejamento do site da ONG Raízes Verdes.
+
+Sumário
+
+	1.	Objetivo
+	2.	Público-alvo
+	3.	Sitemap
+	4.	Inventário de conteúdo
+	5.	Wireframes de baixa fidelidade
+	6.	Guia visual
+	7.	Estrutura das páginas
+	8.	Formulário de contato
+	9.	Mídias
+	10.	Responsabilidades
+
 1. Objetivo
 
 Apresentar os projetos da ONG Raízes Verdes, divulgar ações sustentáveis e permitir que interessados conheçam as iniciativas e entrem em contato.
