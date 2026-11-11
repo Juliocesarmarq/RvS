@@ -1,4 +1,4 @@
-Planejamento do site – Raízes Verdes
+amento do site – Raízes Verdes
 
 1. Objetivo
 
