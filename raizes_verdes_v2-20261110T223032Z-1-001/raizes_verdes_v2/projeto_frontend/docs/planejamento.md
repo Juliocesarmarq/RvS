@@ -1,35 +1,48 @@
-amento do site – Raízes Verdes
+Planejamento do Site – Raízes Verdes
 
-1. Objetivo.
+Documento de planejamento do site da ONG Raízes Verdes.
+
+Sumário
+
+	1.	Objetivo
+	2.	Público-alvo
+	3.	Sitemap
+	4.	Inventário de conteúdo
+	5.	Wireframes de baixa fidelidade
+	6.	Guia visual
+	7.	Estrutura das páginas
+	8.	Formulário de contato
+	9.	Mídias
+	10.	Responsabilidades
+
+1. Objetivo
 
 Apresentar os projetos da ONG Raízes Verdes, divulgar ações sustentáveis e permitir que interessados conheçam as iniciativas e entrem em contato.
 
 2. Público-alvo
 
-* Moradores da comunidade;
-* Jovens interessados em voluntariado;
-* Empresas e comércios interessados em apoiar projetos ambientais.
+	•	Moradores da comunidade;
+	•	Jovens interessados em voluntariado;
+	•	Empresas e comércios interessados em apoiar projetos ambientais.
 
 3. Sitemap
 
-                         index.html
-        ┌─────────┬──────────┬─────────┬──────────┐
-        │         │          │         │          │
-     sobre    projetos    galeria   voluntarios  faq
-                    │
-             ┌──────┴────────┐
-             │               │
-      projeto-horta   projeto-reciclagem
-        contato.html
-        orcamento.html
+index.html
+├── sobre.html
+├── projetos.html
+│   ├── projeto-horta.html
+│   └── projeto-reciclagem.html
+├── galeria.html
+├── voluntarios.html
+├── faq.html
+├── contato.html
+└── orcamento.html
 
 Menu principal
 
 Início | Sobre | Projetos | Galeria | Voluntários | FAQ | Contato | Orçamento
 
 As páginas de detalhes dos projetos são acessadas através da página Projetos.
-
-⸻
 
 4. Inventário de conteúdo
 
@@ -44,8 +57,6 @@ voluntarios.html	Apresentar participação voluntária	Informações e convite p
 faq.html	Responder dúvidas	Perguntas e respostas
 contato.html	Permitir contato	Formulário e informações de contato
 orcamento.html	Apresentar pesquisa	Comparativo de domínio e hospedagem
-
-⸻
 
 5. Wireframes de baixa fidelidade
 
@@ -65,7 +76,7 @@ Home
 | FOOTER                         |
 +--------------------------------+
 
-Página interna - Projeto Horta
+Página interna – Projeto Horta
 
 +--------------------------------+
 | HEADER + NAV                   |
@@ -97,8 +108,6 @@ Contato
 | FOOTER                         |
 +--------------------------------+
 
-⸻
-
 6. Guia visual
 
 Elemento	Decisão
@@ -110,8 +119,6 @@ Fonte	Georgia
 Botões	Verdes com cantos arredondados
 Cards	Fundo branco com sombra leve
 
-⸻
-
 7. Estrutura das páginas
 
 Todas as páginas seguem o modelo:
@@ -119,8 +126,6 @@ Todas as páginas seguem o modelo:
 header → nav → main → footer
 
 A estrutura mantém a navegação e a identidade visual do site.
-
-⸻
 
 8. Formulário de contato
 
@@ -133,24 +138,11 @@ Mensagem	textarea	required, minlength, maxlength
 
 O formulário utiliza validações nativas do HTML5.
 
-⸻
-
 9. Mídias
 
-* Imagens nas páginas principais e projetos;
-* Áudio na página inicial;
-* Vídeo na página do projeto de horta;
-* Iframe de mapa na página de contato.
-
-⸻
+	•	Imagens nas páginas principais e projetos;
+	•	Áudio na página inicial;
+	•	Vídeo na página do projeto de horta;
+	•	Iframe de mapa na página de contato.
 
 10. Responsabilidades
-
-Responsabilidade	Integrante
-Planejamento e conteúdo	Júlio
-Estrutura HTML e navegação	Júlio
-CSS e identidade visual	Júlio
-Imagens e mídias	Júlio
-Documentação	Júlio
-Git e GitHub	Júlio
-Revisão e correções	Júlio
